@@ -1,0 +1,17 @@
+{
+	"name": "node-jira",
+	"description": "JIRA v4.3 SOAP Interface",
+	"version": "0.0.1",
+	"author": "Basil Shkara <basil@neat.io>",
+	"keywords": ["jira"],
+	"main" : "lib/jira",
+	"dependencies": {
+		"restler": ">=0.2.1"
+	}, 
+	"directories" : {
+		"lib" : "./lib"
+	},
+	"engines": {
+		"node": ">= 0.4.2"
+	}
+}
